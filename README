@@ -1,24 +1,12 @@
 /-------------------------------------------------------------------------
-/ Starter Code and GUI Application for Course 2 in the
 / Java Programming: Object Oriented Design of 
-/ Data Structures Specialization:
+/ Data Structures 
 /
 / Data structures: Measuring and Optimizing Performance
-/ https://www.coursera.org/learn/data-structures-optimizing-performance
 /
-/ Authored by UCSD MOOC Team:
-/ Mia Minnes, Christine Alvarado, Leo Porter, Alec Brickman
-/ and Adam Setters
-/
-/ Date: 10/29/2015
+/ Date: 07/31/2020
 /-------------------------------------------------------------------------
 
----------------------------------------------------------[ DESCRIPTION ]--
-
-The files provided are skeleton code, as well as grading previews and 
-testing files to be used in completing the course programming 
-assignments. Additionally, you are provided a runnable JavaFX program 
-which will help to test and demonstrate your implementations.
 
 -------------------------------------------------------[ FILES BY WEEK ]--
 
@@ -54,22 +42,3 @@ Week 5 : Hash Maps and Edit Distance
 spelling.WordPath.java
 spelling.NearbyWords.java
 spelling.WPTree.java
-
----------------------------------------------------------------[ SETUP ]-- 
-
-Importing Project into eclipse:
-	1. Create a new Java Project in your workspace
-	2. Import the starter files:
-	  File -> Import -> Select "File System" -> Next -> Browse and set 
-	  root directory to folder contents of zip were extracted to -> Finish
-
-Feel free to use another IDE or manually compile and run your programs.
-If you need help, google is your friend.
-
------------------------------------------------------[ ACKNOWLEDGEMENTS]--
-
-A big thank you to Tomas Mikula for creating RichTextFX 
-which was used as the text area in the GUI application.
-(Link: https://github.com/TomasMikula/RichTextFX)
-
-
